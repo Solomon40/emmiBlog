@@ -1,6 +1,6 @@
 # Delta State EMMI Blog
 
-This project was created in the course of the first cohort of the [Emerging Model Markets Initiative](https://tech4dev.com/programs/emmi.html) powered by the [Delta State Government](https://deltaemergingmarket.com/).
+This project was created in the course of the first cohort of the [Emerging Market Model Initiative](https://tech4dev.com/programs/emmi.html) powered by the [Delta State Government](https://deltaemergingmarket.com/).
 
 ## Contributing
 
