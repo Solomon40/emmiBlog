@@ -16,7 +16,7 @@ This is an Open Source project and you can contribute by:
 
 1) Fork the repo and clone your forked repo.
 
-2) Runs the app in the development mode.\
+2) Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
