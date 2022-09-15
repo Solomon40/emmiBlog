@@ -1,25 +1,33 @@
-# Getting Started with Create React App
+# Delta State EMMI Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created in the course of the first cohort of the [Emerging Model Markets Initiative](https://tech4dev.com/programs/emmi.html) powered by the [Delta State Government](https://deltaemergingmarket.com/).
 
-## Available Scripts
+## Contributing
 
-In the project directory, you can run:
+This is an Open Source project and you can contribute by:
 
-### `npm start`
+### Suggesting Update
 
-Runs the app in the development mode.\
+1) Sign Up for an account, login and start interacting with past and present EMMI cohorts.
+
+2) Click on the Support icon to chat with the Team and give feedback/suggestions based on your experience.
+
+### For Developers
+
+1) Fork the repo and clone your forked repo.
+
+2) Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
