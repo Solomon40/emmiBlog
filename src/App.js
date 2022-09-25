@@ -1,6 +1,7 @@
 
 import NavbarComponent from './navbarComponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import CarouselComponent from './carouselComponent';
 
 function App() {
   return (
@@ -8,6 +9,9 @@ function App() {
       <header className="App-header">
         <NavbarComponent />
       </header>
+      <main>
+        <CarouselComponent />
+      </main>
     </div>
   );
 }
