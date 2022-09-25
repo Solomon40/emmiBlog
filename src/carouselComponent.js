@@ -1,4 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
+import slider1 from './images/slider1.jpeg';
+import slider2 from './images/slider2.jpeg';
+import slider3 from './images/slider4.jpeg';
 
 function CarouselComponent() {
   return (
@@ -6,7 +9,7 @@ function CarouselComponent() {
       <Carousel.Item className="sliderHeight">
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=373940"
+          src={slider1}
           alt="First slide"
         />
         <Carousel.Caption>
@@ -17,7 +20,7 @@ function CarouselComponent() {
       <Carousel.Item className="sliderHeight">
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src={slider2}
           alt="Second slide"
         />
 
@@ -29,7 +32,7 @@ function CarouselComponent() {
       <Carousel.Item className="sliderHeight">
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src={slider3}
           alt="Third slide"
         />
 
