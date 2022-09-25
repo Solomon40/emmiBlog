@@ -1,4 +1,4 @@
-
+import Home from './home';
 import NavbarComponent from './navbarComponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import CarouselComponent from './carouselComponent';
@@ -11,6 +11,7 @@ function App() {
       </header>
       <main>
         <CarouselComponent />
+        <Home />
       </main>
     </div>
   );
